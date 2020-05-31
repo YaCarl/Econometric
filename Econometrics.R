@@ -1,4 +1,4 @@
-library("xlsx")
+library("xlsx") #text
 
 ###ALTMAN Z-SCORE MODEL SCORES & TAFFLER'S MODEL SCORES:
 
